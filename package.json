@@ -1,0 +1,14 @@
+{
+  "name": "online-file-explorer-app",
+  "version": "1.0.0",
+  "description": "An online explorer app using pure node.js and Bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manh Dinh yeu vo Minh Anh",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
